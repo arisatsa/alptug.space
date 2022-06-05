@@ -1,0 +1,125 @@
+navbar_entries:
+  - title: hakkımda
+    url: about
+
+  - title: blog
+    url: blog
+
+  - title: website
+    url: https://alptug.space
+
+project_entries:
+  - title: Project 1
+    url: overview-post
+    desc: This is an example project, configured in _data/home.yml
+
+  - title: Project 2
+    url: overview-post
+    desc: Projects are shown in card layout
+
+  - title: Project 3
+    url: overview-post
+    desc: You can control visibility from _config.yml file
+
+  - title: Project 4
+    url: overview-post
+    desc: This project uses highlight markup, configured in _data/home.yml
+    highlight: WIP
+
+  - title: Project 5
+    url: overview-post
+    desc: Moonwalk also has horizontal list (used in header and footer)
+    highlight: WIP
+
+  - title: Project 6
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+
+footer_entries:
+  - title: website
+    url: https://www.alptug.space
+  
+  - title: email
+    url: "mailto:hello@alptug.space"
+
+  - title: instagram
+    url: https://www.instagram.com/alptuyu/
+  
+  - title: spotify
+    url: https://open.spotify.com/user/xwpsd63we866vy7zlglgezmro?si=4c8e969e1c6641be
+
+  - title: twitter
+    url: https://twitter.com/IcheYnce
+
+  - title: github
+    url: https://github.com/arisatsa
+
+  - title: feed
+    url: feed.xml
+
+misc_entries:
+  - title: araba
+    url: false
+    entries:
+      - title: araba 0
+        url: https://alptug.space/images/araba_0.jpg
+
+      - title: araba 1
+        url: https://alptug.space/images/araba_1.jpg
+      
+      - title: araba 2
+        url: https://alptug.space/images/araba_2.jpg
+
+      - title: araba 3
+        url: https://alptug.space/images/araba_3.jpg
+
+  - title: kedy
+    url: false
+    entries:
+      - title: kedy pixel
+        url: https://alptug.space/images/kedy_pixel.jpg
+
+      - title: kedy sulu
+        url: https://alptug.space/images/kedy_sulu.jpg
+  
+  - title: lovecraft
+    url: https://alptug.space/images/lovecraft_0.jpg
+  
+  - title: mecha
+    url: false
+    entries:
+      - title: mecha 0
+        url: https://alptug.space/images/mecha_0.jpg
+      
+      - title: mecha 1
+        url: https://alptug.space/images/mecha_1.jpg
+
+      - title: mecha 2
+        url: https://alptug.space/images/mecha_2.jpg
+
+      - title: mecha 3
+        url: https://alptug.space/images/mecha_3.jpg
+
+  - title: plaj
+    url: https://alptug.space/images/plaj.jpg
+  
+  - title: prenses
+    url: https://alptug.space/images/prenses.jpg
+  
+  - title: psycho
+    url: https://alptug.space/images/psycho.jpg
+  
+  - title: şirin
+    url: false
+    entries:
+      - title: şirin 0
+        url: https://alptug.space/images/sirin_0.jpg
+      
+      - title: şirin 1
+        url: https://alptug.space/images/sirin_1.jpg
+  
+  - title: sürahi
+    url: https://alptug.space/images/surahi.jpg
+  
+  - title: terapist
+    url: https://alptug.space/images/terapist.jpg
