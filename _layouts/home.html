@@ -23,7 +23,7 @@ layout: default
 
 {% if site.theme_config.show_misc_list == true %}
   <h2>{{ site.theme_config.home.title_misc_list }}</h2>
-  <details>
+  <details style="cursor:pointer;">
     <summary>köstek çubuğu</summary>
     {% include vertical_list.html collection=site.data.home.misc_entries %}
   </details>
